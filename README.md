@@ -8,7 +8,7 @@
  ||Hyperparameter Optimization |
  |<a href='https://github.com/arshsinghphd/Portfolio/tree/main/FakeNewsClassifier'>Fake News Classifier</a> | NLP using Keras |
  || Implementing CNN, LSTM models|
- || Making Pipelines |
+ || Building Pipelines |
  |<a href='https://github.com/arshsinghphd/Portfolio/tree/main/OpioidsAndNonPhysicians'>Opioids and Non-Physicians Precriptive Powers</a>| Parallel Processing using pyspark|
  ||Expert level statistical skills|
  ||Geospatial Analysis |
