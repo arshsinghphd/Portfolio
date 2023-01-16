@@ -7,7 +7,7 @@
  || Implementing CNN, LSTM models|
  || Building Pipelines |
  |<a href='https://github.com/arshsinghphd/Portfolio/tree/main/OpioidsAndNonPhysicians'>Opioids and Non-Physicians Precriptive Powers</a>| Parallel Processing using pyspark|
- ||Expert level statistical skills|
+ ||Expert-Level Statistical Skills: Panel Regressions|
  ||Geospatial Analysis |
  |<a href='https://github.com/arshsinghphd/Portfolio/tree/main/MNIST'>MNIST (Handwritten Digit Classifiers)</a>|  Building SGD Classifier |
  | |Models Selection|
