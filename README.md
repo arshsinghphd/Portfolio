@@ -9,7 +9,7 @@
  |<a href='https://github.com/arshsinghphd/Portfolio/tree/main/OpioidsAndNonPhysicians'>Opioids and Non-Physicians Precriptive Powers</a>| Parallel Processing using pyspark|
  ||Expert-Level Statistical Skills: Panel Regressions|
  ||Geospatial Analysis |
- |<a href='https://github.com/arshsinghphd/Portfolio/tree/main/MNIST'>MNIST (Handwritten Digit Classifiers)</a>|  Building SGD Classifier |
+ |<a href='https://github.com/arshsinghphd/Portfolio/tree/main/MNIST'>MNIST: Handwritten Digits Classifier</a>|  Building SGD Classifier |
  | |Models Selection|
  ||Hyperparameter Optimization |
  |<a href='https://github.com/ageron/handson-ml/tree/master/datasets/housing'>California Housing Market: Predicting Home Prices</a>|  Regression Analysis |
