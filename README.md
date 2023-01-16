@@ -1,10 +1,17 @@
-# Portfolio
- A showcase of my projects to demonstrate the essential skills in Machine Learning.
+# Portfolio: 
+## A showcase of my projects to demonstrate the essential skills in Machine Learning.
  
- Projects in this Portfolio:<br>
- <a href='https://github.com/arshsinghphd/Portfolio/tree/main/MNIST'>MNIST (Handwritten Digit Classifiers)</a> <br>
- <a href='https://github.com/arshsinghphd/Portfolio/tree/main/FakeNewsClassifier'>Fake News Classifier</a> <br>
- <a href='https://github.com/arshsinghphd/Portfolio/tree/main/OpioidsAndNonPhysicians'>Opioids and Non-Physicians Precriptive Powers</a> <br>
+ | Project | Skills | 
+ |---| ---|
+ |<a href='https://github.com/arshsinghphd/Portfolio/tree/main/MNIST'>MNIST (Handwritten Digit Classifiers)</a>|  Building SGD Classifier |
+ | |Models Selection|
+ ||Hyperparameter Optimization |
+ |<a href='https://github.com/arshsinghphd/Portfolio/tree/main/FakeNewsClassifier'>Fake News Classifier</a> | NLP using Keras |
+ || Implementing CNN, LSTM models|
+ || Making Pipelines |
+ |<a href='https://github.com/arshsinghphd/Portfolio/tree/main/OpioidsAndNonPhysicians'>Opioids and Non-Physicians Precriptive Powers</a>| Parallel Processing using pyspark|
+ ||Expert level statistical skills|
+ ||Geospatial Analysis |
  
  
  
