@@ -13,4 +13,4 @@ DATA:<br>
 SOURCE: I am using the <a href='http://yann.lecun.com/exdb/mnist/'>MNIST dataset</a> created by Yann LeCun, Corinna Cortes, and Christopher J.C. Burges.
 
 SKILLS<br>
-I demostrate skills in making classifiers 
+I demostrate skills in building Stochastic Gradient Descent (SGD) classifiers, model selection, and hyperparameter optimization.
