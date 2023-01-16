@@ -10,6 +10,7 @@ GOAL:<br>
 In this project I build models to classifiers for identifying handwritten digits
 
 DATA:<br>
-SOURCE: I am using the MNIST dataset
+SOURCE: I am using the <a href='http://yann.lecun.com/exdb/mnist/'>MNIST dataset</a> created by Yann LeCun, Corinna Cortes, and Christopher J.C. Burges.
 
 SKILLS<br>
+I demostrate skills in making classifiers 
