@@ -16,7 +16,7 @@
  | |Building Pipelines|
  | |Variable Selection, Model Selection  |
  ||Hyperparameter Optimization |
- ||GeoSpatial Visualization|
+ ||Geospatial Visualization|
  
  
  
